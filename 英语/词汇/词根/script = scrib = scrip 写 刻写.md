@@ -1,0 +1,1 @@
+### srcipt、scrib、scrip 写 刻写 #词根 
