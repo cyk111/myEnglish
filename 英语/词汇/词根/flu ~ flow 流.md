@@ -1,0 +1,27 @@
+#### flu ~ flow 流
+
+- fluent
+- fluency
+- influence
+- influential
+- uninfluential
+- influenza
+- confulent
+- confluence
+- fluid
+- fluidty
+- refulent
+- refluence
+- defluent
+- circumfluent
+- effluent
+- superfluous
+- superfulity
+- superfluid
+- interfluent
+- flux
+- fluxion
+- afflux
+- reflux
+- influx
+- 

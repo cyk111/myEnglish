@@ -1,0 +1,21 @@
+#### fer = bring take 带 拿
+
+- confer
+- conference
+- differ
+- difference
+- different
+- differential
+- differentiate
+- differentiation
+- offer
+- offering
+- prefer
+- preferable
+- preference
+- preferential
+- transfer
+- transference
+- floriferous
+- aquiferous
+- cruciferous
