@@ -26,8 +26,8 @@
 前缀
 [[pro 向前]]
 [[retro  向后]]
-[[co = con 共同]]
-[[dis  ~ di 分 离]]
+[[co = con  = col 共同]]
+[[dis  ~ di ~ dif 分 离]]
 
 后缀
 [[ive ...的 形容词后缀]]

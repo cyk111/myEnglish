@@ -25,7 +25,22 @@
 
 ---
 前缀
-›
-
+[[geo 地 大地]]
+[[bio 生命]]
+[[ideo 意]]
+[[ortho 正]]
+[[mono 单一 一种]]
+[[pseudo 假]]
+[[poly 多]]
+[[micro 微小]]
+[[macro 宏大的]]
+[[seismo 地震]]
+[[baro 重 压]]
+[[chrono 时]]
+[[stereo 立体]]
+[[cyclo 圆]]
+[[holo 全]]
 
 后缀
+[[ics ....学]]
+[[y 名词后缀]]
