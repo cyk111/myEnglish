@@ -26,7 +26,7 @@
 前缀
 [[pro 向前]]
 [[retro  向后]]
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 [[dis  ~ di ~ dif 分 离]]
 
 后缀

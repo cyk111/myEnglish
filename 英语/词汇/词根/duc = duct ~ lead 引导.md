@@ -34,7 +34,7 @@
 **via 路**  **aque- 水**
 前缀
 [[intro 入]]
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 [[semi 半]]
 [[mis 错 误]]
 [[pro 向前]]

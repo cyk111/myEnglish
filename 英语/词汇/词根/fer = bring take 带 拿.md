@@ -21,7 +21,7 @@
 - cruciferous curc 十字形-i-fer-ous 带有十字架的 
 
 前缀
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 [[dis  ~ di ~ dif 分 离]]
 [[of 向前 向]]
 [[pre 先 前]]

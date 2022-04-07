@@ -21,7 +21,7 @@
 
 前缀
 [[per = par 完全 彻底  通  全]]
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 
 
 

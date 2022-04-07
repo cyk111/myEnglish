@@ -28,7 +28,7 @@
 ---
 前缀 
 [[inter = intel 中间 ....之中]]
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 [[neg 不]]
 
 后缀

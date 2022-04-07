@@ -21,7 +21,7 @@
 ---
 前缀
 [[re  再  相反]]
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 [[trans  = tra越过 横过 转]]
 [[in  入 做 作成  无 非]]
 [[dis  ~ di ~ dif 分 离]]
