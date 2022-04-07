@@ -1,0 +1,14 @@
+#### migr ~remvoe move 迁移
+- migrate
+- migration
+- migrant
+- emigrate
+- emigration
+- emigrant
+- immigrate
+- immigration
+- immigrant
+- transmigrate
+- tasnsmigration
+- transmigrator
+- intermigration

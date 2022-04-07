@@ -1,0 +1,30 @@
+#### miss ~ mit = send 投 送 发
+
+- missile
+- dismiss
+- dismission
+- mission
+- missionary
+- manumit
+- manumission
+- remit
+- remittance
+- remittee
+- transmit
+- transmission
+- transmiter
+- transmissilbe
+- intermit
+- intermission
+- emissive
+- emission
+- emissary
+- emit
+- immit
+- mimission
+- promise
+- compromise
+- commit
+- commitee
+- commission
+- commissary

@@ -1,0 +1,22 @@
+#### mini ~ min = small little 小
+
+- minister
+- ministry
+- administer
+- administration
+- administrator
+- administrative
+- minify
+- minim
+- minimun
+- minimize
+- miniature
+- minimal
+- diminish
+- diminishable
+- undiminishiable
+- minor
+- minority
+- minus
+- minute
+- minute
