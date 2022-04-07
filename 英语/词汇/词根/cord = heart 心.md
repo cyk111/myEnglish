@@ -22,7 +22,7 @@
 ----
 前缀 
 [[re  再  相反]]
-[[co = con  = col 共同]]
+[[co = con  = col = com  加强语气 共同]]
 [[dis  ~ di ~ dif 分 离]]
 
 
