@@ -23,7 +23,7 @@
 [[re  再  相反]]
 [[co = con  = col = com  加强语气 共同]]
 [[trans  = tra越过 横过 转]]
-[[in  ~ im ~ig 入 做 作成  无 非]]
+[[in  ~ im ~ig ~ ir 入 做 作成  无 非 加强语气]]
 [[dis  ~ di ~ dif ~ s分 离]]
 [[inter = intel 中间 ....之中 相互]]
 [[per = par 完全 彻底  通  全]]

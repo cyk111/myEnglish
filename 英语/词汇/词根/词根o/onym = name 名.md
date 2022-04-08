@@ -24,7 +24,7 @@
 **matr 母**
 **part 父**
 [[pseudo 假]]
-[[syn 同 相同]]]
+[[syn  ~ sym同 相同]]]
 [[ant =anti 相反]]
 
  后缀

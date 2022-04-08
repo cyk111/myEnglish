@@ -39,7 +39,7 @@
 [[pre  ~ pro ~ pur 先 前]]
 [[male 恶 坏]]
 [[bene -好]]
-[[in  ~ im ~ig 入 做 作成  无 非]]
+[[in  ~ im ~ig ~ ir 入 做 作成  无 非 加强语气]]
 [[inter = intel 中间 ....之中 相互]]
 
 后缀
