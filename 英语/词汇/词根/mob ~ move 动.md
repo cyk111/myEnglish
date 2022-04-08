@@ -13,3 +13,18 @@
 - mobocracy mob-o-cracy(统治)  暴徒统治  暴民政治
 - mobocrat mob-o-crat(统治者) 暴徒首领
 - mobster mob-ster 暴徒 暴匪
+
+---
+前缀
+[[de   非 相反 下 除去 去掉 加强]]
+[[im  ~ in 内 入  不 加强语气]]
+[[auto  自己  自动]]
+
+后缀
+[[ile 形容词后缀  ...的]]
+[[ility 名词后缀 表抽象]]
+[[ize 动词后缀 ...化 使用...]]
+[[ish 动词后缀]]
+
+**cracy(统治)**
+**crat(统治者)**
