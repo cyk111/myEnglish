@@ -22,7 +22,7 @@
 
 前缀
 [[co = con  = col = com  加强语气 共同]]
-[[dis  ~ di ~ dif 分 离]]
+[[dis  ~ di ~ dif ~ s分 离]]
 [[of 向前 向]]
 [[pre  ~ pro ~ pur 先 前]]
 [[trans  = tra越过 横过 转]]
@@ -33,7 +33,7 @@ cruc 十字架
 
 后缀
 [[ence 名词后缀]]
-[[ent 名词后缀  表人 形容词后缀]]
+[[ent 名词后缀  表人 形容词后缀 ...的]]
 [[ial 形容词后缀]]
 [[ation 名词后缀]]
 [[ing 形容词后缀  使...]]
