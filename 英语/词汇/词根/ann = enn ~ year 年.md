@@ -13,7 +13,7 @@
 
 ---
 前缀
-[[super 超]]
+[[super  ~ hyper 超 极度超]]
 [[per = par 完全 彻底  通  全]]
 [[semi 半]]
 

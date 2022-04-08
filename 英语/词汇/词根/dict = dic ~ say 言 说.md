@@ -39,8 +39,8 @@
 [[pre  ~ pro ~ pur 先 前]]
 [[male 恶 坏]]
 [[bene -好]]
-[[in  入 做 作成  无 非]]
-[[inter = intel 中间 ....之中]]
+[[in  ~ im ~ig 入 做 作成  无 非]]
+[[inter = intel 中间 ....之中 相互]]
 
 后缀
 [[ory 形容词后缀 ....的]]
