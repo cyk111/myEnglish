@@ -24,7 +24,7 @@
 [[co = con  = col = com  加强语气 共同]]
 [[dis  ~ di ~ dif 分 离]]
 [[of 向前 向]]
-[[pre 先 前]]
+[[pre  ~ pro ~ pur 先 前]]
 [[trans  = tra越过 横过 转]]
 
 flor = flower 花

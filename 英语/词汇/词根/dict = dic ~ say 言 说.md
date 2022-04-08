@@ -36,7 +36,7 @@
 ---
 前缀
 [[contra  相反]]
-[[pre 先 前]]
+[[pre  ~ pro ~ pur 先 前]]
 [[male 恶 坏]]
 [[bene -好]]
 [[in  入 做 作成  无 非]]

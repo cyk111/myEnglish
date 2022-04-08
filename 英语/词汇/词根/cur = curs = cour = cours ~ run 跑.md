@@ -38,7 +38,7 @@
 [[inter = intel 中间 ....之中]]
 [[suc 后面]]
 [[in  入 做 作成  无 非]]
-[[pre 先 前]]
+[[pre  ~ pro ~ pur 先 前]]
 [[ante 先 前]]
 [[re  再  相反]]
 [[trans  = tra越过 横过 转]]

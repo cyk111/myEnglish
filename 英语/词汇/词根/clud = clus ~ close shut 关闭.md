@@ -29,7 +29,7 @@
 [[in 入  否定 不]]
 [[se 离 分开]]
 [[re  再  相反]]
-[[pre 先 前]]
+[[pre  ~ pro ~ pur 先 前]]
 
 con 
 oc

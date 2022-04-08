@@ -17,7 +17,7 @@
 
 ---
 前缀
-[[sub  副 下]]
+[[sub  = sup 副 下]]
 [[co = con  = col = com  加强语气 共同]]
 [[counter 反]]
 
