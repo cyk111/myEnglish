@@ -1,0 +1,1 @@
+### sec sequ = follow 跟随

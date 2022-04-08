@@ -1,0 +1,1 @@
+### sist = stand 站立

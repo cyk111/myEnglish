@@ -1,0 +1,1 @@
+### tain ~ ten ~tin = hold 握 持 守

@@ -1,0 +1,10 @@
+### 词根l
+- [[lect  = leg  = lig ~ choose gather 选 收]]
+- [[lev = liev ~  raise 举 升]]
+- [[liber = free 自由]]
+- [[lingu ~ language 语言]]
+- [[liter ~ letter 文字 字母]]
+- [[loc  ~ place 地方]]
+- [[log ~ speak  言 说]]
+- [[loqu ~ speak 言 说]]
+- [[lun ~ moon 月亮]]
