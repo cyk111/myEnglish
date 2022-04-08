@@ -1,1 +1,0 @@
-#### centri = center 中心
