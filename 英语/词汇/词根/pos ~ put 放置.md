@@ -29,17 +29,17 @@
 
 ---
 前缀
-[[ex  = ec 超出 外 出 使... 做...]]
+[[ex  = ec = e超出 外 出 使... 做...]]
 [[co = con  = col = com  加强语气 共同]]
 [[pre  ~ pro ~ pur 先 前]]
 [[op ~ ob 相反]]
-[[dis  ~ di ~ dif 分 离]]
+[[dis  ~ di ~ dif ~ s分 离]]
 [[re  再  相反]]
-[[inter = intel 中间 ....之中]]
+[[inter = intel 中间 ....之中 相互]]
 [[trans  = tra越过 横过 转]]
 [[de   非 相反 下 除去 去掉 加强]]
 
 后缀
-[[ure 名词后缀]]
+[[ure = ture名词后缀]]
 [[ition 名称后缀]]
-[[er  ~ or 名称后缀表人或物]]
+[[er  ~ or 名称后缀表人或物 动词后缀]]

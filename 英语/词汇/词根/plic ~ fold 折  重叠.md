@@ -22,9 +22,9 @@
 ----
 前缀
 [[co = con  = col = com  加强语气 共同]]
-[[ex  = ec 超出 外 出 使... 做...]]
-[[sub  = sup 副 下]]
-[[im  ~ in 内 入  不]]
+[[ex  = ec = e超出 外 出 使... 做...]]
+[[sub  = sup = sus 副 下]]
+[[im  ~ in 内 入  不 加强语气]]
 [[du ~ two 二]]
 [[mutil 多]]
 
