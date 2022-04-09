@@ -1,0 +1,19 @@
+####  a 无 不 非 加强意义
+- a 无 不 非
+	- acentric  无中心的 
+	- amoral   非道德性的
+	- asocial  不好社交的
+	- asexual  无性别的
+	- atypical 非典型的
+- 含有 in on at by with to of 的意义
+	- asleep 在熟睡中
+	- aside 在一边
+	- abed 在床上
+	- ashore 向岸上 在岸上
+	- afield 在田里  在野外
+- 加强意义
+	-  aloud 高声的
+	- awake 唤醒 使醒
+	- await 等待
+	- arise 起来 升起
+	- afar 遥远的
