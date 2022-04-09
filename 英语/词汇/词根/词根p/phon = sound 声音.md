@@ -30,9 +30,9 @@
 [[sym 共同 互相]]
 [[eletro -电]]
 [[gram ~ write drawn 写 画 文字 图画]]
-[[eu 优美]]
+[[eu 优 美 善 好]]
 [[caco 恶]]
-[[dys 困难]]
+[[dys 困难 不良 恶]]
 [[poly 多]]
 [[mega 大]]
 **oto 耳朵**

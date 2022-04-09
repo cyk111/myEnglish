@@ -35,7 +35,7 @@
 [[re  再  相反]]
 [[trans  = tra越过 横过 转]]
 [[inter = intel 中间 ....之中 相互]]
-[[ex  = ec = e = ef 超出 外 出 使... 做...]]
+[[ex  = ec = e = ef 超出 外 出 使... 做... 前任的 以前的]]
 [[in  ~ im ~ig ~ ir 入 做 作成  无 非 加强语气]]
 [[pre  ~ pro ~ pur 先 前]]
 [[co = con  = col = com  加强语气 共同]]

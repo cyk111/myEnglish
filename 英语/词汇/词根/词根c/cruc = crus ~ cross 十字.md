@@ -11,5 +11,5 @@
 - crcuify [[fy 动词后缀  使...]]  把....钉在十字架上 折磨
 - crucifier [[er  ~ or 名称后缀表人或物 动词后缀]] 实酷刑的人
 - cruciform [[form 形容词后缀 有...形状的]] 十字形的
-- excruciate [[ex  = ec = e = ef 超出 外 出 使... 做...]] 使受酷刑 拷打 折磨
+- excruciate [[ex  = ec = e = ef 超出 外 出 使... 做... 前任的 以前的]] 使受酷刑 拷打 折磨
 - excruciation [[ation 名词后缀]] 惨刑 拷问 酷刑
