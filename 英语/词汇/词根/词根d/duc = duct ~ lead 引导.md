@@ -36,7 +36,7 @@
 [[intro 入]]
 [[co = con  = col = com  加强语气 共同]]
 [[semi 半]]
-[[mis 错 误]]
+[[mis 错 误 恶 不]]
 [[pro 向前]]
 [[re  再  相反]]
 [[ab 离 去]]

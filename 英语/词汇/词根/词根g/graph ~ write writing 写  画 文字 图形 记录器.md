@@ -33,7 +33,7 @@
 [[pseudo 假]]
 [[poly 多]]
 [[micro 微小]]
-[[macro 宏大的]]
+[[macro 宏 大 长]]
 [[seismo 地震]]
 [[baro 重 压]]
 [[chrono 时]]

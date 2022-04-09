@@ -31,7 +31,7 @@
 前缀
 [[ex  = ec = e = ef 超出 外 出 使... 做... 前任的 以前的]]
 [[co = con  = col = com  加强语气 共同]]
-[[pre  ~ pro ~ pur 先 前]]
+[[pre  先 前 预先]]
 [[op ~ ob 相反]]
 [[dis  ~ di ~ dif ~ s分 离]]
 [[re  再  相反]]
