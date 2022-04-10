@@ -1,7 +1,7 @@
 #### cruc ~ cross 十字
 
 - crucial crcu-[[ial 形容词后缀]] 紧要关头的 决定性的
-- crusade  crus-[[ade 名词后缀 表集体]] 十字军
+- crusade  crus-[[ade 名词后缀 表集体 行为 表示物]] 十字军
 - crusader [[er  ~ or 名称后缀表人或物 动词后缀]]  十字军参与者
 - cruise cruis = cur 巡游 巡航
 - cruiser [[er  ~ or 名称后缀表人或物 动词后缀]] 巡洋舰 
@@ -12,4 +12,4 @@
 - crucifier [[er  ~ or 名称后缀表人或物 动词后缀]] 实酷刑的人
 - cruciform [[form 形容词后缀 有...形状的]] 十字形的
 - excruciate [[ex  = ec = e = ef 超出 外 出 使... 做... 前任的 以前的]] 使受酷刑 拷打 折磨
-- excruciation [[ation 名词后缀]] 惨刑 拷问 酷刑
+- excruciation [[ation 名词后缀  行为 情况 性质 过程 结果]] 惨刑 拷问 酷刑
