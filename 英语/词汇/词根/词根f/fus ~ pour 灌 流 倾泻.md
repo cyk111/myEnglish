@@ -20,9 +20,9 @@
 
 ---
 前缀
-[[re  再  相反]]
+[[re  回 向后  再 重复 重新 相反 反对]]
 [[co = con  = col = com  加强语气 共同]]
-[[trans  = tra越过 横过 转]]
+[[trans  = tra 越过 横过  转换 变换]]
 [[in  ~ im ~ig ~ ir 入 做 作成  无 非 加强语气]]
 [[dis  ~ di ~ dif ~ s分 离]]
 [[inter = intel 中间 ....之中 相互]]

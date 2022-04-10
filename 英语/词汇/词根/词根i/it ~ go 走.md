@@ -20,7 +20,7 @@
 前缀
 [[ex  = ec = e = ef 超出 外 出 使... 做... 前任的 以前的]]
 [[in  ~ im ~ig ~ ir 入 做 作成  无 非 加强语气]]
-[[trans  = tra越过 横过 转]]
+[[trans  = tra 越过 横过  转换 变换]]
 [[circ ~ ring 环 圆]]
 [[se  ~ sed 离 分开 脱离]]
 

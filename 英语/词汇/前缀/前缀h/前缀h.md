@@ -1,2 +1,10 @@
 ### 前缀h
+- [[hecto 百]]
+- [[hemi  半]]
+- [[hepta ~ hept 七]]
+- [[hetero 异]]
+- [[hexa  六]]
 - [[holo 全]]
+- [[homo 同]]
+- [[hyper 超过 过多 太甚]]
+- [[hypo 下 低 次 少]]

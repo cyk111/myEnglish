@@ -14,8 +14,8 @@
 - extraditable -able 可引渡的
 ---
 前缀
-[[trans  = tra越过 横过 转]]
-[[sub  = sup = sus 副 下]]
+[[trans  = tra 越过 横过  转换 变换]]
+[[sub   下  次 亚  准  稍微 略 微   副 分支 下级   接近 更进一层  化学名词]]
 [[ex  = ec = e = ef 超出 外 出 使... 做... 前任的 以前的]]
 
 后缀

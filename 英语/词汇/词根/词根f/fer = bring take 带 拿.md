@@ -25,7 +25,7 @@
 [[dis  ~ di ~ dif ~ s分 离]]
 [[of 向前 向]]
 [[pre  先 前 预先]]
-[[trans  = tra越过 横过 转]]
+[[trans  = tra 越过 横过  转换 变换]]
 
 flor = flower 花
 aqu = aquid  水
