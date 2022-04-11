@@ -11,4 +11,4 @@
 - [[esce 动词后缀 形容词形式 escency]]
 - [[escence 名词后缀]]
 - [[esque 如...的 形容词后缀]]
-- [[et  ~ ette 表示小]]
+- [[et  ~ ette 表示小 名词后缀]]
