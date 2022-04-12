@@ -5,7 +5,7 @@
 - insecure [[in 入  否定 不]]  [[se 离 分开]]  -cur -e 不安全的 
 - insecurity [[in 入  否定 不]] [[se 离 分开]] -cur -ity  不安全 
 - curious [[ious 形容词后缀]]  新奇的 奇怪的  爱打听的
-- curiosity [[osity 名称后缀]]  好奇心 奇品 珍品 古玩
+- curiosity [[ot 名称后缀]]  好奇心 奇品 珍品 古玩
 - curio curiosity 的缩写
 - incuriousty in-cur-ious-ty 无好奇心 不关心的
 - cure 医疗 治疗
