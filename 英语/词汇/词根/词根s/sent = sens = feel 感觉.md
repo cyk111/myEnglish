@@ -1,0 +1,44 @@
+### sent =  sens = feel 感觉
+
+
+- sentiment
+- sentimental
+- consent
+- consenter
+- consentient
+- consentaneous
+- consentus
+- consentual
+- dissent
+- dissension
+- dissenter
+- dissentient
+- resent
+- resentful
+- resentment
+- presentiment
+- sense
+- sesob;e
+- sensibility
+- sensitive
+- sensation
+- sensational
+- sensory
+- senseless
+- nonsense
+- insensible
+- insensible
+- hypersensitive
+- oversensitive
+- sensitize
+- desensitize
+- desensitization
+- desensitizer
+- extrasensory
+- assent
+- assentation
+- assentor
+- assentient
+- sentence
+- sensual
+- sensuous
