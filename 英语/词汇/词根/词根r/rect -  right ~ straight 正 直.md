@@ -1,1 +1,31 @@
 ### rect - right ~ straight 正 直
+
+
+- correct
+- correction
+- corrective
+- corrector
+- correctitude
+- incorrect
+- rectify
+- rectification
+- rectifier
+- rectitude
+- rectilineal
+- rectangle
+- erect
+- erection
+- erective
+- erector
+- rectum
+- direct
+- direction
+- directional
+- director
+- directress
+- directive
+- direct
+- directly
+- indirect
+- indirectly
+- indirection

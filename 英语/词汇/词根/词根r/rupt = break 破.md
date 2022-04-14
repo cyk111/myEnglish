@@ -1,1 +1,21 @@
 ### rupt = break 破
+
+- rupture
+- interrupt
+- interruption
+- disrupt
+- disruptive
+- disruption
+- bankrupt
+- bankruptcy
+- corrupt
+- corruption
+- corruptible
+- corruptive
+- incorrupt
+- incorruptible
+- irrupt
+- irruption
+- irruptive
+- erupt
+- eruptive

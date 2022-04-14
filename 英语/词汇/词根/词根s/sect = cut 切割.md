@@ -1,1 +1,23 @@
 ### sect = cut 切割
+
+- insect
+- insectology
+- section
+- sectional
+- sectile
+- bisect
+- bisection
+- trisect
+- trisection
+- dissect
+- disection
+- transect
+- transection
+- vivisect
+- vivisection
+- resect
+- resectable
+- resection
+- intersection
+- secant
+- cosectant
