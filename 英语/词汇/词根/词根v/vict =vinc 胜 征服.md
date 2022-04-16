@@ -1,1 +1,1 @@
-### vict、vinc 征服 胜 #词根 
+### vict、vinc 征服 胜 

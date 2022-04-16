@@ -15,3 +15,4 @@
 - [[prehend = prehends 抓住]]
 - [[press - 压 按]]
 - [[punct ~ point pick 点 刺]]
+- [[pur ~ pure 清 净 纯]]
