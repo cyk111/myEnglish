@@ -1,0 +1,11 @@
+### 词根v
+- [[vac ~ vacu = empty 空]]
+- [[vad ~ vas = walk go  行走]]
+- [[vari = change 变化]]
+- [[ven = vent = come 来]]
+- [[vert =  vers = turn 转]]
+- [[via = vi  = way 路]]
+- [[vict =vinc 胜 征服]]
+- [[vis = vid = see 看]]
+- [[vit = life 生命]]
+- [[viv = vivi = live 活]]
