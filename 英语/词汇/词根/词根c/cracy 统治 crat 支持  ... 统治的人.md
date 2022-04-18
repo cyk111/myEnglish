@@ -1,0 +1,23 @@
+### cracy 统治 crat 支持 ... 统治的人
+
+- democracy
+- democrat
+- democratic
+- democratism
+- autocracy
+- autocratic
+- bureaucracy
+- bureaucrat
+- bureaucratic
+- bureaucratese
+- bureaucratism
+- bureacucratize
+- plutocracy
+- plutocrat
+- plutocratic
+- theocracy
+- theocratic
+- monocracy
+- monocrat
+- moncratic
+- polycracy

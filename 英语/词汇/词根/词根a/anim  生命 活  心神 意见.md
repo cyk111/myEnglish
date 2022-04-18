@@ -1,0 +1,22 @@
+### 生命 活 心神 意见
+
+- animal
+- animalcule
+- animalize
+- animality
+- aninalism
+- animate
+- animation
+- animator
+- animative
+- disanimate
+- equanimity
+- exanimate
+- inanimate
+- inanimation
+- longanimous
+- longanimity
+- reanimate
+- reanimation
+- unanimity
+- magnaimous

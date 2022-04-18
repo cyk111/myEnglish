@@ -1,0 +1,23 @@
+### fict fig 塑造 虚构
+
+- fiction
+- fictionist
+- fictional
+- fictionalize
+- fictitious
+- fictive
+- fictile
+- figment
+- figure
+- figurable
+- figural
+- figuration
+- figurine
+- configure
+- configuration
+- disfigure
+- disfigurement
+- prefigure
+- prefiguration
+- transfigure
+- transfiguration
