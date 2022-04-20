@@ -1,0 +1,22 @@
+### mut b变换
+
+- mutable
+- immutable
+- mutant
+- mutation
+- intermutation
+- mutual
+- mutuality
+- mutualize
+- commute
+- commutable
+- commutablity
+- commutate
+- commutator
+- commutation
+- incommutable
+- permute
+- permutation
+- transmute
+- transmutable
+- transmutation

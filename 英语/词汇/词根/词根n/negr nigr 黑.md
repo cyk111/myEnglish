@@ -1,0 +1,21 @@
+### negr nigr 黑
+
+- Negro
+- Negress
+- negrodom
+- negroid
+- negroism
+- negroite
+- negrolet
+- negrophile
+- negrophobia
+- negrophobe
+- Negritic
+- nigrify
+- nigrification
+- nigritude
+- nigrecence
+- nigrescent
+- denigrate
+- denigrator
+- 
