@@ -3,7 +3,7 @@
 - [[macro 宏 大 长]]
 - [[mal  恶 坏 不良 失 不]]
 - [[manu 手]]
-- [[mega 大]]
+- [[英语/词汇/前缀/前缀m/mega 大]]
 - [[meri ~ medi中间]]
 - [[meta 超  变化]]
 - [[micro 微小]]
