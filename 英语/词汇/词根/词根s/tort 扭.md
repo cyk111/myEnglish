@@ -1,0 +1,22 @@
+### tort 扭
+
+- extort
+- extortion
+- extortioner
+- tortuous
+- tortuosity
+- torture
+- torturer
+- torment
+- torturous
+- contort
+- contortion
+- contortionist
+- distort
+- distortion
+- distortionist
+- tortoise
+- retort
+- retortion
+- tortile
+- torsion

@@ -1,0 +1,22 @@
+### simil = simul 相似 相同
+
+- similar
+- similarity
+- similitude
+- assimilate
+- assimilation
+- assimilator
+- assimilative
+- dissimilar
+- dissimilatiry
+- dissimilate
+- dissimilation
+- dissimilitude
+- facsimile
+- verisimilar
+- verisimilitude
+- simulate
+- simulation
+- simulator
+- simulataneous
+- simultaneity

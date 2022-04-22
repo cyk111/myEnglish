@@ -1,0 +1,27 @@
+### sat satis satur 足 满 饱
+
+- sate
+- satiable
+- insatible
+- insatiability
+- satiate
+- satiation
+- insatiate
+- satiety
+- satisfy
+- satisfaction
+- satisfiable
+- satisfactory
+- dissatisfy
+- dissatisfied
+- dissatisfaction
+- dissatisfactory
+- unsatisfactory
+- unsatisfied
+- saturable
+- saturant
+- saturate
+- saturation
+- supersaturate
+- unsaturated
+- 

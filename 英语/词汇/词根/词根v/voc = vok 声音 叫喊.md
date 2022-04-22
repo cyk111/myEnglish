@@ -1,0 +1,30 @@
+### voc = vok 声音 叫喊
+
+- vocal
+- vocalism
+- vocalist
+- vocalize
+- vocative
+- vociferous
+- convoke
+- convocation
+- revoke
+- revocation
+- revocable
+- irrevocable
+- provoke
+- provocation
+- provocative
+- equivocal
+- equivocality
+- equivoke
+- evoke
+- evocation
+- evocative
+- vocable
+- vocabulary
+- advocate
+- advocacy
+- advocator
+- vocation
+- vocational

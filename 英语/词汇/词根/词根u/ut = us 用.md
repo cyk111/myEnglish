@@ -1,0 +1,13 @@
+### ut = us 用
+- utility
+- utilitarian
+- utilize
+- utilization
+- utilizable
+- inutile
+- utensil
+- usage
+- usual
+- uaually
+- usury
+- usurious

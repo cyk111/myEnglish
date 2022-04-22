@@ -1,0 +1,19 @@
+### patr(i)
+
+- patriarch
+- patriarchal
+- patriarchy
+- patrimony
+- patriot
+- patriotic
+- patriotism
+- unpatriotic
+- compatriot
+- expatriate
+- expatriation
+- repatrirate
+- repatriation
+- patron
+- patronage
+- patronize
+- patronymic
