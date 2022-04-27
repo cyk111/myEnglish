@@ -1,5 +1,6 @@
 ### 词根t
 
+- [[tact = tag 触]]
 - [[tail = cut 切 割]]
 - [[tain ~ ten ~tin = hold 握 持 守]]
 - [[tech(o) 技术 艺术]]
@@ -9,4 +10,10 @@
 - [[tend=tens -tent = strech 伸]]
 - [[terr ~ earth land 土地 陆地]]
 - [[text = weave 编织]]
+- [[the(o) 神]]
+- [[ton 音]]
+- [[tort 扭]]
+- [[tour 迂回 转]]
 - [[tract = draw 拉 抽 引]]
+- [[trud = trus 推 冲]]
+- [[tut = tuit 监护 看管]]
