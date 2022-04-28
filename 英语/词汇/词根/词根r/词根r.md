@@ -1,3 +1,10 @@
 ### 词根r
+- [[radic 根]]
+- [[ras rad 擦 刮]]
 - [[rect -  right ~ straight 正 直]]
+- [[rid ris 笑]]
+- [[rod  ros  咬  啮]]
+- [[rot 轮 转]]
+- [[rud  原始 粗野]]
 - [[rupt = break 破]]
+- [[rur rus 农村]]
