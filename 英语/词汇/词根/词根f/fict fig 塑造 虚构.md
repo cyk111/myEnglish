@@ -1,23 +1,23 @@
 ### fict fig 塑造 虚构
 
-- fiction
-- fictionist
-- fictional
-- fictionalize
-- fictitious
-- fictive
-- fictile
-- figment
-- figure
-- figurable
-- figural
-- figuration
-- figurine
-- configure
-- configuration
-- disfigure
-- disfigurement
-- prefigure
-- prefiguration
-- transfigure
-- transfiguration
+- fiction fict-ion 虚构  杜撰 小说
+- fictionist fiction-ist 小说家
+- fictional fiction-al 小说的 虚构的
+- fictionalize fictional-ize 把.... 编成小说 使小说化
+- fictitious fictitious 虚构的 杜撰的 非真实的
+- fictive fict-ive 非真实的 假装的
+- fictile fict-ile 塑造的 陶制的  陶制品
+- figment fig-ment 虚构的事 臆造的事物
+- figure fig-ure 外形 轮廓
+- figurable figur-able 能成形的 能定形的
+- figural figur-al 具有人的形象的
+- figuration figur-ation 外表 轮廓
+- figurine figur-ine 小雕像 小塑像
+- configure con-fig-ure  使成形 构型
+- configuration con-fig-uation  结构 形状 外形
+- disfigure dis-fig-ure 毁...的外形
+- disfigurement dis-fig-ure-ment 毁容 毁形
+- prefigure pre-figure 预示 预兆
+- prefiguration pre-fig-uartion 预示 预兆
+- transfigure trans-fig-ure 使变形  使改观
+- transfiguration trans-fig-uration 变形 改观

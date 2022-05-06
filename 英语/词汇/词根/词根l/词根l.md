@@ -1,5 +1,7 @@
 ### 词根l
+- [[later 边]]
 - [[lect  = leg  = lig ~ choose gather 选 收]]
+- [[leg 读  leg legis 法]]
 - [[lev = liev ~  raise 举 升]]
 - [[liber = free 自由]]
 - [[lingu ~ language 语言]]
@@ -7,4 +9,6 @@
 - [[loc  ~ place 地方]]
 - [[log ~ speak  言 说]]
 - [[loqu ~ speak 言 说]]
+- [[luc 光]]
+- [[lumin 光]]
 - [[lun ~ moon 月亮]]

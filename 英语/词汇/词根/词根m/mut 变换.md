@@ -1,22 +1,22 @@
-### mut b变换
+### mut 变换
 
-- mutable
-- immutable
-- mutant
-- mutation
-- intermutation
-- mutual
-- mutuality
-- mutualize
-- commute
-- commutable
-- commutablity
-- commutate
-- commutator
-- commutation
-- incommutable
-- permute
-- permutation
-- transmute
-- transmutable
-- transmutation
+- mutable mut-able 可变的 易变的 不定的
+- immutable im-mutable 不可改变的 永远不变的
+- mutant mut-ant 变异的 变异引起的
+- mutation mut-ation 变化 变异
+- intermutation inter-mut-ation 交换  互换 交替
+- mutual mutual 互相的  彼此的
+- mutuality multual-ity 相互关系 
+- mutualize multual-ize 使互相发生关系的
+- commute com-mute  变换 用...交换
+- commutable com-mut-able 可以变换的
+- commutablity com-mut-ablity 可变换性
+- commutate com-mut-able 可以变换的
+- commutator com-mut-ator 转化器 交换机
+- commutation com-mut-ation 交换 变换 转向
+- incommutable in-commut-able 不能交换的
+- permute per-mute 变更 交换
+- permutation per-mut-ation 变更 交换
+- transmute trans-mute 变质
+- transmutable trans-mut-able 可变形的 可变质的
+- transmutation trans-mut-ation 变形 变质 演变
