@@ -22,4 +22,4 @@
 [[cult 耕 培养]]
 [[cur = curs = cour = cours ~ run 跑]]
 [[cur ~ care 关心 挂念 注意]]
-[[cyclo 圆]]
+[[cycl(o) 圆 环 轮]]
