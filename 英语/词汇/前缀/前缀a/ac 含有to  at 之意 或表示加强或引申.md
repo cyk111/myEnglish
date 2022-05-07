@@ -7,4 +7,4 @@
 - acclimate ac-climate 使 适应气候
 - acculturation ac-culturation 文化移人
 - ackonwledge ac-knowledge 认知  承认
-- acquit  ac-quit  释放 免罪
+- acquit  ac-quit  释放 免罪![[dist-sys-notes.pdf]]
