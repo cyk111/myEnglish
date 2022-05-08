@@ -5,7 +5,7 @@
 - [[di ~ day  日]]
 - [[dict = dic ~ say 言 说]]
 - [[dit ~ give 给]]
-- [[doc 教]]
+- [[doc doct 教]]
 - [[dom 屋 家]]
 - [[don  = do ~ give 给]]
 - [[dorm 睡眠]]
