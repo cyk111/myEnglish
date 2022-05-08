@@ -19,7 +19,7 @@
 - [[mis(o)  恨  厌恶]]
 - [[misc 混合 混杂]]
 - [[miss ~ mit = send 投 送 发]]
-- [[mob ~ move 动]]
+- [[mob ~ mov~mot~ move  动 移动]]
 - [[mon 告诫 提醒 mon  单独一个]]
 - [[mort = death 死]]
 - [[mot = move  动]]
