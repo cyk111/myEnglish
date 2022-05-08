@@ -15,3 +15,4 @@
 - [[voc = vok 声音 叫喊]]
 - [[vol volunt 意志 意愿]]
 - [[volu = volv 滚 转]]
+- [[van 空  无]]
