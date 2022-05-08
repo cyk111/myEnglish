@@ -33,6 +33,61 @@
 - interdictory -ory 形容词后缀 ...的 制止的 禁止的
 - verdict ver = very 绝对的  恰好的 真正的  裁决 判决 定论
 
+- indict 控告 起诉
+	- indictor  原告 起诉者
+	- indictee 被告  被起诉者
+	- indicted 被告发
+	- unindicted
+- indicate  表明 指示  指出 象征
+	- indicator
+	- indication
+	- indicative
+	- indictment
+	- indictable
+- dictate 命令 口述  听写 指示
+	- dictated
+	- dictation
+	- dictator  独裁者 专政者 口授者
+	- dictatorial
+	- dictatorship
+- interdict 独断 封锁 禁止 禁令
+	- interdiction
+	-  interdictory
+- edict 法令 布告
+- dedictate  致力 献身 
+- verdict 裁决 判决  定论
+- addict 有瘾的人 入迷的人 使沉溺 使上瘾
+	- addictive 上瘾的
+	- addiction
+	- addicted
+	- addicting
+	- drug-addict
+- contradict 反驳 否定 与...有矛盾
+	- contradictory
+	- contradiction
+	- self-contradictory
+- predict 预报 预言 预知
+	- predictor
+	- predictive
+	- predicted
+	- unpridicted
+	- prediction
+	- predictable
+	- predictably
+	- unpredictably
+	- predictability
+- valediction 告别演说  告别词
+	- valedictory
+	- valedictorian 
+- benediction 祝福 赐福 恩赐
+	- benedictory
+- malediction 诅咒 诽谤
+	- maledictory 
+- dictum 格言 声明
+- diction 措辞 辞令
+	- dictionary
+	- dictaphone
+
 ---
 前缀
 [[contra  相反]]
