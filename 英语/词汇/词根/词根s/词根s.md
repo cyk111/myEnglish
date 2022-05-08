@@ -21,3 +21,4 @@
 - [[spir = breathe 呼吸]]
 - [[splend 发光 照耀]]
 - [[stell 星]]
+- [[soph 智慧]]
