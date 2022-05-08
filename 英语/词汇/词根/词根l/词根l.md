@@ -1,6 +1,6 @@
 ### 词根l
 - [[later 边]]
-- [[lect  = leg  = lig ~ choose gather 选 收]]
+- [[lect  = leg  = lig = legis   采集 读 说  法律 选 收]]
 - [[leg 读  leg legis 法]]
 - [[lev = liev ~  raise 举 升]]
 - [[liber = free 自由]]
