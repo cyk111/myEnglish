@@ -1,4 +1,4 @@
-### par 生 产
+### par  ~ pear 生 产
 
 - parent par-ent 双亲 父母
 - parental parent-al  父母的
