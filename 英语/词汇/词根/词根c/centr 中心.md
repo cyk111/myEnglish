@@ -1,0 +1,29 @@
+### centr 中心
+
+- centre 以...为中心 集中  中心
+- centric
+- centricity
+- centrist
+- centroid
+- centrism
+- centrum
+- acentric
+- decentre （使） 离开中心
+	- decentralize 
+	- decentralized
+	- decentralization
+- concentrate 集中 浓缩 全神贯注 聚集
+	- concentratation
+	- concentrator
+	- concentricity
+	- concentric
+- eccentric
+	- eccentricity
+	- eccentrically
+	- centrifuge
+- decenter
+	- decentered
+	- decentering
+	- supercenter
+	- epicenter
+	- multicenter
