@@ -1,0 +1,36 @@
+### sur  确定
+
+- sure  确定的 可靠的 必定的
+	- unsure
+	- sureness
+	- surely
+	- surety
+	- sure-fire
+	- sure-footed
+- insure 确保 保证 给...保险 投保
+	- insured
+	- uninsured
+	- insurance
+	- insurer
+	- insurant
+	- insurable
+	- uninsurable
+	- reinsure 再保险 分保
+	- self-insure
+	- self-insured
+	- self-insurance
+	- life-insurance
+	- health-insurance
+- assure 保证 担保 使确信 弄清楚
+	- assured
+	- assuredly
+	- assurance
+- reassure 使放心 使安心
+	- reassurance
+	- reassured
+	- reassuring
+	- reassuringly
+	- quality-assurance
+	- self-assured
+	- self-assurance
+- ensure   保证 确保

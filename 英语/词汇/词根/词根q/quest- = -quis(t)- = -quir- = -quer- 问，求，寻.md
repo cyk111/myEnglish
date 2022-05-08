@@ -1,0 +1,51 @@
+### quest- = -quis(t)- = -quir- = -quer- 问，求，寻
+
+- quest 追求 寻找  探索
+- question 问题 疑问 询问
+	- questioned
+	- unquestioned
+	- unquestioning
+	- unquestioningly
+	- questioning
+	- questioningly
+	- questioner
+	- questionnaire
+	- questionable
+	- questionably
+	- unquestionable
+	- unquestionably
+- bequest 遗产 遗赠
+- self-questioning 反省 自我质疑
+- question-and-answer 问答
+- request  请求 需求 要求
+	- requested
+	- requester
+- inquest 审讯 验尸 讯问
+- require 需要 要求 命令
+	- requirement
+	- required
+- inquire 调查 讯问
+	- inquirer
+	- inquiry
+	- inquiring
+	- inquiringly
+	- inquiry-based
+- inquistion 调查 审讯 宗教法庭
+	- inquistor
+	- inquestorial
+	- inquestiveness
+	- inquistively
+- acquire  获取 忽的 学到 捕获
+	- acquirer
+	- acquired
+	- reacquire
+- conquer 战胜 克服 征服
+	- conqueror
+	- conquering
+	- conquered
+	- unconquered
+	- unconquerable
+	- reconquer
+	- conquest
+	- preconquest
+- query 

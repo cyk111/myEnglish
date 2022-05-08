@@ -1,0 +1,56 @@
+### sign 设计
+
+- sign 迹象 符号 记号 手势 指示牌 签名 签署
+	- signal
+	- signaling
+	- signal-to-noise
+	- signer
+	- signet
+	- signage
+	- signing
+	- signed
+	- unsigned
+	- co-sign
+	- book-signing
+	- sign-language
+	- undersigned
+	- signpost
+	- signboard
+	- sign-off
+	- signify
+	- signifier
+	- signfication
+	- significance
+	- significant
+	- significantly
+	- insignficant
+	- signature
+	- signatory
+- design 设计 计划 构思
+	- designer
+	- designee
+	- designed
+	- designing
+- redesign 重新设计 
+	- redesigned
+	- interior-design
+	- well-designed
+	- self-designed
+	- pre-design
+	- constom-designed
+	- undersign 
+	- underdesign
+- resigned  顺从的 已辞职的
+	- resignedly
+- assign 分配 指派
+	- assigned
+	- unassigned
+	- pre-assigned
+- reassign 再分配 再指派
+- consign  交付 托运  寄存 把...委托给
+	- consignment 
+	- consignation
+	- consignee  收件人  受托人
+	- consigner 发货人 委托人 
+	- consignor 发货人 货主
+	- ensign 海军少尉 旗

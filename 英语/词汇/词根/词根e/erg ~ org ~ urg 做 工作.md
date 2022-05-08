@@ -1,0 +1,39 @@
+####  erg ~ org ~ urg 做 工作
+
+- energy 能源
+	- energyize
+	- energized
+	- energizer
+	- energetic
+	- energetics
+	- energetically
+- synergy 协同作用
+	- synergic
+	- synergism
+	- synergistic
+- organize 组织 使系统化
+	- organizer
+	- organiser
+	- organized
+	- organization 组织
+	- organizational 组织的
+	- organizationally 组织地
+	- organizing 组织上的
+	- well-organized
+	- unorganized 
+- reorganize 改组 整理  整顿 改编
+	- reorganization
+	- reorganized
+- organic 有机的 组织的
+	- organiccally
+	- organism
+	- inorganic
+- urge 催促 驱策 推进
+	- urging
+	- urgency
+	- urgent
+	- urgently
+	- non-urgent
+- surgery  外科 外科手术  手术室  诊疗室
+	- telesurgery
+	- surgeon 外科医生

@@ -1,0 +1,75 @@
+###  fin 终结 末尾 界限
+
+- final  最终的 决定性的 不可更改的 
+	- finally
+	- finality
+	- finalist
+	- finalization  终结 结束
+	- semifinal 半决赛
+	- quarterfinal  四分之一决赛的
+	- affinal  姻亲的 同源的 姻亲
+	- finale 结局 终曲 最后一场
+	- final-round
+- finance 财政 金融 财政学 
+	- financier
+	- financial
+	- finalcially
+	- financing
+- refinance 再供...资金 再为...筹钱
+	- refinancing
+- financial-aid
+- financial-planing
+- non-financial
+- self-financing
+- self-financed
+- goverment-finance
+- campaign-finance
+- personal-finance
+- define 定义 使明确 规定
+	- defining
+	- defined 有定义的 确定的 清晰的 轮廓分明的
+	- definer
+	- definite
+	- definitely
+	- definition
+	- definitonal
+	- definitive
+	- definitively
+	- undefined
+	- indefinitely
+- definitude 明确
+- definable
+- indefinable
+- undefinable
+- redefine
+- redefinition
+- redefined
+- self-defined
+- self-defining
+- finish 完成 结束 用完 终结 结束
+	- finisher 
+	- finished
+	- finishing
+	- unfinished
+	- half-finished
+- refinish
+- prefinished
+- finite 有限的 限定的 有限之物
+	- infinite
+	- infinitely
+	- infinitude
+	- infinitive
+	- infinitival
+	- finite-element
+	- finial  顶尖 最高点
+- confine 界限 边界 约束 限制 禁闭
+	- confinement 限制 禁止 分娩
+	- confining 受限的 限制的 狭窄的
+	- confined 狭窄的 有限制的 
+	- unconfined 自由的 松散的 无拘束的
+-  refine 精炼 提纯 改善 使...文雅
+	- unrefined
+	- refining
+	- refiner
+	- refinery
+	- finis
