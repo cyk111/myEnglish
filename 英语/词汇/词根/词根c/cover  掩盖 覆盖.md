@@ -1,0 +1,48 @@
+### cover  掩盖 覆盖
+
+- cover   覆盖 封面  盖子  代替
+- covered
+- covering
+- coverage
+- uncover
+- uncovering
+- uncovered
+- undercover
+- cover-up
+- hardcover
+- softcover
+- coveralls
+- snow-cover
+- coverlet
+- slipcover
+- chocolate-cover
+- groundcover
+- bedcover
+- mass-covered
+- ice-covered
+- ivy-covered
+- dust-covered
+- plastic-covered
+- cloth-covered
+- slipcovered
+- tree-covered
+- vine-covered
+- grass-covered
+- leather-covered
+- pine-covered
+- lichen-covered
+
+- discover 发现 发觉 被发现的事物
+- discovery
+- discoverer
+- discovered
+- undisconver
+- discoverable
+- co-discoverer
+- e-discovery
+- self-discovery
+
+- rediscovery 重新发现 再发现
+- recover 恢复
+- recovery 恢复 复原 痊愈 重获
+- recoverable 可回收的
