@@ -17,7 +17,7 @@
 - [[pict ~ paint 画 描绘]]
 - [[plen ~ full  满]]
 - [[plex 重叠 重]]
-- [[plic ~ fold 折  重叠]]
+- [[plic- = -ply- = -pli- = -ple- = -plex- = -plo- = to flod(倍, 重, 折叠)]]
 - [[polis 城市]]
 - [[pon ~ poun~ put 放置]]
 - [[popul ~ people 人民]]
