@@ -12,3 +12,4 @@
 - [[luc 光]]
 - [[lumin 光]]
 - [[lun ~ moon 月亮]]
+- [[liqu 液体]]

@@ -10,3 +10,35 @@
 - promiscuous  pro-misc-uous  混杂的 杂乱的
 - promiscuity pro-misc-u-ity 杂乱 
 - miscegenation misc-e-genation 混血
+
+- mix 配置 混淆 使混和 使结交
+	- mixer
+	- mining
+	- mixed
+	- unmixed
+	- mix-up
+	- mixed-use
+	- mixed-race
+	- mixed-up
+	- mixed-blood
+	- mixed-sex
+	- min-gener
+	- well-mised
+- admix 使混合
+	- adminture 混合 添加物 掺和剂
+- intermix 使...混杂 使...混合
+	- intermixture
+- immix 掺和 混合
+	- immixture
+- miscible 易混合的
+	- immiscible
+- commix 
+- endomixs
+- miscgenation
+- anti-miscgenation
+- premix
+	- primixed
+- promiscuity
+	- promiscuous
+	- promiscuously
+- remix
