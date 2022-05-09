@@ -17,7 +17,7 @@
 - [[mini ~ min = small little 小]]
 - [[mir ~ wonder 惊奇 惊异]]
 - [[mis(o)  恨  厌恶]]
-- [[misc 混合 混杂]]
+- [[misc = mix = mixt 混合 混杂]]
 - [[miss ~ mit = send 投 送 发]]
 - [[mob ~ mov~mot~ move  动 移动]]
 - [[mon 告诫 提醒 mon  单独一个]]

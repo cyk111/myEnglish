@@ -1,5 +1,5 @@
 ### 词根h
-- [[habit  = dwell  居住]]
+- [[habit = hibit  = dwell  居住]]
 - [[hal 呼吸]]
 - [[helic(o) 螺旋]]
 - [[hes her 粘着]]

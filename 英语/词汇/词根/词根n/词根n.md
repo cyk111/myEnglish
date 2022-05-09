@@ -1,10 +1,10 @@
 ### 词根n
 - [[nat 诞生]]
 - [[nav 船]]
-- [[nect  nex 结 系]]
+- [[nect  = nex 结 系]]
 - [[negr nigr 黑]]
 - [[nihil 无]]
-- [[noc nox 伤害]]
+- [[noc = nox(i) = nui = nec  伤害]]
 - [[nomin  ~ name 名]]
 - [[nov ~ new 新]]
 - [[numer ~ number 数]]

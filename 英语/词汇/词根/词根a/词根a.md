@@ -1,6 +1,6 @@
 ### 词根a
 - [[aer(o) 空气 空中 航行]]
-- [[ag ~ do ~ act 做 动]]
+- [[ag = act = ig  驱使 做 动]]
 - [[agri = agro = agr ~ field 田地 农田]]
 - [[alt 高]]
 - [[am 爱]]

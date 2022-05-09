@@ -7,7 +7,7 @@
 - [[lingu ~ language 语言]]
 - [[liter ~ letter 文字 字母]]
 - [[loc  ~ place 地方]]
-- [[log ~ speak  言 说]]
+- [[log = loqu = locut  ~ speak  言 说]]
 - [[loqu ~ speak 言 说]]
 - [[luc 光]]
 - [[lumin 光]]

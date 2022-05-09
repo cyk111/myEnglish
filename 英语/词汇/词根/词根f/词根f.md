@@ -1,6 +1,6 @@
 ### 词根f
 - [[fabl =  fabul 言]]
-- [[fact = fac ~ do mark  做]]
+- [[fact = fac = fet = fit ~ do mark  做]]
 - [[feder 联盟]]
 - [[fer = bring take 带 拿]]
 - [[ferv 热 沸]]
@@ -11,7 +11,7 @@
 - [[flect flex  弯曲]]
 - [[fict fig 塑造 虚构]]
 - [[flor = flour ~ flower 花]]
-- [[flu ~ flow 流]]
+- [[flu = flux ~ flow 流]]
 - [[form - 形式 格式 表格 形成]]
 - [[frag fract  破 折]]
 - [[frig 冷]]

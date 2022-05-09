@@ -6,7 +6,7 @@
 - [[dict = dic ~ say 言 说]]
 - [[dit ~ give 给]]
 - [[doc doct 教]]
-- [[dom 屋 家]]
+- [[dom(o) = domat(o) =domin   屋 家  统治]]
 - [[don  = do ~ give 给]]
 - [[dorm 睡眠]]
 - [[drom 跑]]
