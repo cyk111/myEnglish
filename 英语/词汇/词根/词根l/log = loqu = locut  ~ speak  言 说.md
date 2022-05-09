@@ -1,0 +1,21 @@
+####  log = loqu = locut ~ speak 言 说
+- dialogue
+- dialogist
+- eulogy
+- eulogizer
+- apology
+- apologize
+- prologue
+- epilogize
+- monlogue
+- monologist
+- pseudology
+- neologism
+- neolgoize
+- antilogy
+- dyslogy
+- logic
+- logical
+- illogial
+- philologist
+- phiology

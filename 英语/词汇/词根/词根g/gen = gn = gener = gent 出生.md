@@ -1,0 +1,1 @@
+### gen = gn = gener = gent 出生

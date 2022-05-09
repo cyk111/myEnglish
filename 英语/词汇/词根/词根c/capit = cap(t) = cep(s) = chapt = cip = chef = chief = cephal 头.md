@@ -1,0 +1,1 @@
+### capit = cap(t) = cep(s) = chapt = cip = chef = chief = cephal 头

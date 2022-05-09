@@ -1,0 +1,1 @@
+### pot(ent) = poss = pow 力量 能力

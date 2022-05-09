@@ -1,0 +1,1 @@
+### order = ord = ordin = ordain 命令

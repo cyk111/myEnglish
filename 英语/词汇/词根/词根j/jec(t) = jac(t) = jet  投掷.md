@@ -1,0 +1,1 @@
+### jec(t) = jac(t) = jet 投掷

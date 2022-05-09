@@ -1,0 +1,1 @@
+### strain =strict =stress =string =strang  to draw tight 拉紧

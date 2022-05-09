@@ -1,0 +1,1 @@
+### ple(t) = plet = pli = ply = plen(i) to fill full 装满
