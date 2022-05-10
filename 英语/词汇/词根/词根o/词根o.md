@@ -1,6 +1,10 @@
 ### 词根o
+- [[obsolesc = obsolet 长大]]
 - [[od- 路]]
 - [[onym = name 名]]
 - [[oper ~ work  工作]]
+- [[opt = ops = opi  采取  眼睛]]
+- [[orches 跳舞]]
+- [[order = ord = ordin = ordain 命令]]
 - [[ori ~ rise 升起]]
 - [[orn 装饰]]

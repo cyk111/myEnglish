@@ -16,3 +16,5 @@
 - [[vol volunt 意志 意愿]]
 - [[volu = volv 滚 转]]
 - [[van = vac = vacu = void = vain 空  无]]
+- [[ven = vent 来]]
+- [[verb- 字，词]]

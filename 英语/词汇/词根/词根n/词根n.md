@@ -11,3 +11,4 @@
 - [[nutri 营养]]
 - [[norm  规范 正规 正常]]
 - [[noct(i) 夜]]
+- [[nerv = neur 神经]]

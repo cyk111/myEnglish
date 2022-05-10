@@ -1,11 +1,12 @@
 ### ton = tun 音调 声
 
-- tonal  ton-al 音调
-- tonality ton-ality 音调
+
 - tone ton-e 音调 调子
-- toneless tone-less 缺乏声调的
-- tonetic ton-etic  声调的
-- tonetics tonet-ics  声调学
+	- tonal  ton-al 音调
+	- tonality ton-ality 音调
+	- toneless tone-less 缺乏声调的
+	- tonetic ton-etic  声调的
+	- tonetics tonet-ics  声调学
 - monotone mono-tone 单调
 - monotonic mono-tonic  单调的
 - monotonous mono-ton-ous 单音调的
@@ -17,6 +18,26 @@
 - intone in-tone 吟诵
 - intonation in-ton-ation 声调 语调
 - undertone under-tone 低音  小声
+
+- tune 曲调 和谐 心情 调整 
+	- tuning 
+	- tuned
+	- tuner 调音师
+	- tuneful
+	- tuneless
+	- tunable
+	- tunelessly
+	- fine-tune
+	- fine-tunning
+	- tunesmith 
+- attune 使协调 使合拍
+	- attuned
+	- attunement
+- tongue 舌头 语言 斥责 
+	- tongued
+	- tongueless
+	- tongue-lashing
+	- tongue-twisting
 
 
 ---

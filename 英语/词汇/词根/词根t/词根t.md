@@ -17,3 +17,4 @@
 - [[tra = tract = treat = draw 拉 抽 引]]
 - [[trud = trus 推 冲]]
 - [[tut = tuit 监护 看管]]
+- [[sum  = sumpt 最高 总 拿]]

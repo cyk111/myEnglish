@@ -12,7 +12,7 @@
 - prevention pre-vent-ion 预防 防止  
 - preventive pre-vent-ive 预防的 防止的
 - event e-vent 事件 大事
-- eventful event-ful 多事的 大事的 多变故的
+	- eventful event-ful 多事的 大事的 多变故的
 - avenue a-ven-ue 道路 大街 林荫道
 - revenue re-ven-ue 税收 收入
 - revenuer re-venu-er 税收官
@@ -23,6 +23,91 @@
 - supervention super-vent-ion 意外发生的事
 - contravene contra-vene 违反 触犯
 - contravention contra-vent-ion 触犯 抵触  反驳
+
+
+-  event 事件
+	- eventful
+	- uneventful
+	- uneventfully
+	- non-event
+- eventual  最终的 最终发生的
+	- eventually
+	- eventuality
+- pre-event 活动前 事件前
+- post-event 事件后
+- enent-driven 
+- convence 召集  集合  传唤 聚集 集合
+	- convener
+	- convenant
+	- convenantal
+	- reconvence
+	- convention
+	- conventioneer
+	- conventional
+	- unconventional
+	- unconventionally
+	- conventionality
+	- unconventionality
+	- conventionalism
+- invent 发明 
+	- inventor
+	- invention
+	- inventory
+	- inventive
+	- inventiveness
+	- intventively
+	- invented
+	- reinvent
+	- reinvention
+	- co-invetor
+- intervene 干预 干涉 介入
+	- intervener
+	- intervenor
+	- intervening
+	- intervention
+	- interventional
+	- intervenient
+	- interventionist
+	- interventionism
+	- non-intervention
+	- post-intervention
+- prevent 预防 防止
+	- prevention
+	- preventive
+	- preventively
+	- preventable
+- cirncumvent包围  围绕
+	- circumvention
+- revenue 税收 收入
+	- revenuer 税务官
+	- revenant 归来的 亡魂的
+- contravene 违反 触犯 抵触
+	- contravention
+- supervene 意外发生
+	- supervention 意外发生的事件
+- advent 到来 出现 
+	- adventure 冒险 冒险精神 投机活动
+	- adventurer 冒险家
+	- adventuress 女冒险家
+	- adventuresome
+- convenient 方便的  实用的
+	- convenience 
+	- conveniently 便利地 合宜地
+	- inconvenience
+	- inconvenient
+	- inconveniently
+- venture 冒险 敢于 投机 
+	- venturesome
+	- venture-bocked
+- venue 审判地 犯罪地点 发生地点
+	- avenue 道路 林荫大道 大街
+- souvenir 纪念品
+- provenance 出处  起源
+	- provenience 来源 原始
+- subvention 津贴 补助金 援助
+
+
+
 
 ---
 前缀 

@@ -12,3 +12,8 @@
 - [[arch 统治者 首脑 archy 统治]]
 - [[audi = aduit ~ hear 听]]
 - [[avi 鸟]]
+- [[album(i)(n)o 白色]]
+- [[alesc = alit = olesc 养育 成长]]
+- [[art = arthr(o) 艺术 关节]]
+- [[anxi 禁止 不安]]
+- [[arch = archa(e) 统治 起始]]

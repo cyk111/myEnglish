@@ -224,7 +224,81 @@
 - traffice 交通 运输 贸易
 	- air-traffic
  - suffice 使满足  足够 合格 有能力
-
+	 - sufficency
+	 - sufficient
+	 - sufficiently
+	 - self-sufficiency
+	 - insufficient
+	 - insufficiently
+	 - insufficiency
+ - proficiency 精通 熟练
+	 - proficient
+	 - proficiently
+ - artifice 诡计 欺骗 巧妙的方法
+	 - artificer 技工  巧匠
+	 - artificial
+	 - artificially 人工地  人为地
+	 - artificality  人工  不自然
+ - feast 享受  款待  宴请
+	 - feasible
+	 - feasibly
+	 - feasibility
+	 - unfeasible
+	 - infeasible
+	 - misfeasance
+	 - malfeasance
+ - forfeit 罚金 没收物  丧失的东西
+	 - forfeiture  没收 
+ - surfeit 过度  饮食过度  恶心 
+ - counterfeit 伪造 仿造 假装 伪装
+	 - counterfeiter
+	 - counterfeiting 伪造
+	 - anti-counterfeiting 防伪
+ - defeat 击败 战胜 挫败
+	 - defeated
+	 - defeatist
+	 - defeatism
+	 - undefeated
+	 - self-defeating
+ - feat 功绩  壮举 技艺的表演
+	 - feature 特色 特征 容貌
+	 -  featured
+	 - featureless
+	 - feature-length
+	 - feature-film
+	 - feature-rich
+	 - full-feature
+	 - sharp-featured 尖锐特征的
+- benefit 利益 好处 救济金
+	- benefit-cost 成本效益
+	- cost-benefit 陈本效益的
+	- risk-benefit 风险收益
+	- defined-benefit 确定收益制
+- outfit 机构 用具  全套装备
+	- outfitter
+	- outfitted
+	- outfitting
+- fit  使... 适应  使...合身  与...相符合
+	- unfit
+	- fitted
+	- unfitted
+	- fitness
+	- unfitness
+	- fitful
+	- fitfully
+	- fitting
+	- fittingly
+	- coustom-fit 量身定制
+	- coustom-fitted 客户化定制的
+- refit  改装 整修  改装 整修  
+	- retrofit 改进  样式翻新
+	- retrofitting
+- discomfit 挫败 扰乱  破坏
+	- discomfiture 狼狈 挫败 崩溃
+-  befit  适合于 对... 适当
+	- misfit
+- soffit 
+- maleficent 
 
 
 - factory   fact  制作  ory 名称后缀      工厂 制造厂   

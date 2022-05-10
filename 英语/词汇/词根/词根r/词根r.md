@@ -8,3 +8,7 @@
 - [[rud  原始 粗野]]
 - [[rupt = break 破]]
 - [[rur rus 农村]]
+- [[rar 稀有]]
+- [[real 现实]]
+- [[rat = ratio 计算  推定 理由]]
+- [[rad(io)- = -ray- 光线, 辐射]]

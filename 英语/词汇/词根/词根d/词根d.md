@@ -12,3 +12,6 @@
 - [[drom 跑]]
 - [[du ~ two 二]]
 - [[duc = duct ~ lead 引导]]
+- [[don = dow = dos = di(a)(o)t]]
+- [[discip 法则]]
+- [[draw  画]]
