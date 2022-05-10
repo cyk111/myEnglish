@@ -1,0 +1,262 @@
+#### fact = fac = fec(t) = fic(t) ~ do mark 做
+> (-feas- = -feit- = -feat- = -fit-) 做
+
+- fact 事实  实际 真相 
+	- artefact
+	- factious
+	- putrefaction
+	- stupefacton
+	- fact-base
+	- fact-finding
+	- fact-finder
+	- matter-of-fact
+	- matter-of-factly
+	- after-the-fact 
+- factor 因素 要素  
+	- factoring
+	- factorial
+	- fact-checking
+	- single-factor
+	- one-factor
+	- cofactor
+	- multifactor
+	- mutilfactorial
+	- factorization
+	- factoid
+	- x-factor
+- factual 实际的  事实的  确实的
+	- factually
+	- factuality
+	- conuterfactual 反事实的
+- facture 制作 发票 制作法
+- faction 派别  内讧 小集团
+	- factional
+	- factionalism 党派之争 党派主义
+- factory 工厂 制造厂  代理点
+	- factory-installed
+	- factory-made
+	- factory-built
+	- factory-like
+- facile  轻率的 未经深思熟虑的 温和的 灵巧的 
+	- facility
+	- factitious 
+- facilitate 使容易做 使容易 使便利
+	- facilitation
+	- facilitator
+	- facilitative
+- facsimile 传真 复写  临摹
+- factitious 人工的 人为的 不自然的
+- abortifacient 堕胎的
+- rarefaction 稀疏
+- faculty 天赋 能力  系 全体教员
+	- faculative 授权的 特许的
+	- faculty-student 师生
+	- student-faculty 学生教师
+- artifact 人工制品 手工艺品
+	- artifactual 人造的  人工制造的
+- olfaction 嗅觉
+	- olfactory 嗅觉的  味道的
+- manufacture 制造 产品 制造业
+	- manufacturer
+	- manufactory
+- benefactor 恩人 捐助者
+	- benefaction
+	- benefactress
+- malefactor
+	- malfaction
+- perfect 完美的  最好的 精通的
+	- perfective
+	- prefecture
+	- prefectural
+	- perfectly
+	- perfection
+	- perfectionism
+	- perfectionist
+	- perfectionistic
+	- perfectibility
+	- perfecta
+	- perfecting
+	- imperfect
+	- imperfection
+	- imperfectly
+- effect 影响 效果  作用  产生 达到目的
+	- effector 
+	- effective
+	- effectively
+	- ineffective
+	- ineffetively
+	- effectiveness
+	- ineffectiveness
+	- effectual
+	- effectually
+	- ineffectual
+	- ineffectutlly
+	- effecture
+	- effectuation
+	- aftereffect
+	- side-effect
+	- field-effect
+	- more-effective
+	- ground-effective
+	- cost-effective
+	- cost-effectiveness
+	- cost-effectively
+	- cause-effect 因果效应
+	- cause-and-effect
+- defect 缺点 缺陷 不足之处  变节  叛变
+	- defective
+	- defection
+	- defector
+- affect 影响 感染 感动 假装  倾向 喜欢
+	- affectless
+	- affective
+	- affectively
+	- affection
+	- affectionly
+	- affectional
+	- affecting
+	- affected
+	- unaffected
+	- affectation
+	- affectionate
+	- affectionately
+	- disaffected
+	- dieaffection
+- infect 感染 传染
+	- infected
+	- uninfected
+	- infection
+	- infective
+	- infectious
+	- infectiously
+	- disinfect
+	- disinfection
+	- dininfectant
+	- coinfection
+	- aids-infected
+	- infecting-fighting
+	- infectious-disease
+- confect 混合 调制   糖果 西点
+	- confection
+	- confectioner
+	- confectionery
+	- confectionary
+- office 办公室 政府机关 官职
+	- offcier
+	- offical
+	- offically
+	- unoffical
+	- unoffically
+	- officiant
+	- officiate
+	- officiating
+	- officious
+	- officiously
+	- officemate
+	- officiales
+	- officalism
+	- officaldom
+	- officalholder
+	- official-looking
+	- box-office
+	- front-office
+	- back-office
+	- post-office
+	- in-office
+- efficient  有效率的 有能力的  生效的
+	- inefficient
+	- inefficiently
+	- efficency
+	- inefficency
+	- efficacy
+	- inefficacy
+	- inefficacious
+	- coefficient
+	- self-efficacy
+	- high-efficiency
+- deficit 赤字 不足额
+	- deficiency
+	- deficient
+	- iron-deficient
+- benefice 圣俸
+	- bendficent
+	- beneficence
+	- beneficial
+	- beneficially
+	- beneficiary
+- profit 利润 利益  获利  有益
+	- nonprofit
+	- profitable
+	- profitablely
+	- profitability
+	- unprofitable
+	- profiteer
+	- profiteering
+	- profitless
+	- for-profit
+	- profit-driven
+- fiction 小说 虚构   编造 谎言
+	- nonfiction
+	- fictive
+	- fictionist
+	- fictional
+	- non-ficttional
+	- fictionally
+	- fictionalized
+	- fictionaliztion
+	- fictitious
+- figure 数字 人物  图形 价格  
+	- figurative
+	- figuartion
+	- figurable
+	- figural
+	- figurine
+	- figment
+	- configure
+	- disfigure
+	- disfigurement
+	- prefigure
+	- prefiguration
+	- transfigure
+	- transfiguration
+- difficult 困难的 不随和  执拗的
+	- difficultly
+- traffice 交通 运输 贸易
+	- air-traffic
+ - suffice 使满足  足够 合格 有能力
+
+
+
+- factory   fact  制作  ory 名称后缀      工厂 制造厂   
+- manufacture manu 手 - fact  -ure  制造 加工
+- manufacturer manu-fact-ure-er 制造商 工厂主
+- manufactory -ory 表示场所 manu-fact-ory 制造厂 工厂
+- benefactor bene 好 -fact-or 施恩者  捐助者
+- benefaction bene-fact-ion 捐赠物 善行 施恩
+- malefactor male 恶 坏 -fact-or 犯罪分子 作恶者
+- malefaction male-fact-ion 坏事 犯罪
+- factitious fact- itious 形容词后缀  人为 的  做作的 不自然的
+- facsimile fac-simil 相似-e 誊写 临摹
+- facile fac-ile 形容词后缀 易...的 易做到的 易得到的
+- facility facil-ity  容易 便利
+- facilitate facilit-ate 使容易  使便利
+- fact 事实
+- factual fact-ual 事实的 真实的
+- facture fact-ure 制作 制作法
+
+前缀
+[[manu 手]]
+[[bene -好]]
+[[mal  恶 坏 不良 失 不]]
+
+后缀
+[[ory 形容词后缀 ....的 名词后缀 表场所 地点 表物]]
+[[ure 名词后缀  表示 行为 行为结果 状态 情况]]
+[[er  ~ or 名称后缀表人或物 动词后缀]]
+[[or 名称后缀 表人 表物]]
+[[ion  名词后缀 表示行为及行为后果]]
+[[itious 形容词后缀  人为 的]]
+[[ate 形容词后缀  ...的 动词后缀 造成 使之成为... 做...事 名词后缀]]
+[[ual 形容词后缀   ...的  同al]]
+
+simil  ~ similer 相似的
