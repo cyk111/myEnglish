@@ -1,6 +1,6 @@
 ### 词根f
 - [[fabl =  fabul 言]]
-- [[fact = fac = fet = fit ~ do mark  做]]
+- [[fact = fac = fec(t) = fic(t) ~ do mark  做]]
 - [[feder 联盟]]
 - [[fer = bring take 带 拿]]
 - [[ferv 热 沸]]

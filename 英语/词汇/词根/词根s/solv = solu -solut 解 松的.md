@@ -1,1 +1,49 @@
 ### solv = solu -solut 解 松的
+
+
+- solve 解决  解答  溶解  作解答
+	- solver  解决者
+	- solvable 可以解决的  可以解的
+	- solvent 有偿付能力的  有溶解力的
+	- solvency 偿付能力 溶解力
+	- solved 解决了的
+	- unsolved 未解决 未解答
+- absolve 免除 赦免  宣告...无罪
+	- insolvent
+	- insolvency
+	- unsolvable
+	- problem-solver
+	- problem-solving
+	- solvent-based
+- dissolve  使溶解 使分解 使液化
+	- dissolved 溶解的 溶化的
+	- dissolving 消溶的 毁灭性的
+- resolve 决定 决心 解决
+	- resolved
+	- resolvable
+	- irresolvable
+	- unresolved
+	- unresolveable
+- solute 溶质 溶解的
+	- solution 解答 答案
+	- dissolute 放荡的  风流的
+	- dissolution
+- absolute 绝对的 完全的 专制的  绝对 绝对事物
+	- absolutely
+	- absolutist
+	- absolution
+	- absolutism
+	- absoluteness
+- resolute 坚决的 过段的
+	- resolution
+	- resolutely
+	- irresolute
+	- irresolvtion 优柔寡断的  踌躇不定的
+	- resoluteness
+	- low-resolution  低分辨率
+	- high-resolution  高分辨率
+	- conflict-resolution
+- soluble 可溶解的 可解决的
+	- solubility
+	- insoluble
+	- fat-insoluble

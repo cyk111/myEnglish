@@ -25,7 +25,7 @@
 前缀
 [[as  含有to  at 之意 或表示加强或引申]]
 [[dis  ~ di ~ dif ~ s分 离]]
-[[fact = fac = fet = fit ~ do mark  做]]
+[[fact = fac = fec(t) = fic(t) ~ do mark  做]]
 [[ver(i) 真实]]
 
 后缀

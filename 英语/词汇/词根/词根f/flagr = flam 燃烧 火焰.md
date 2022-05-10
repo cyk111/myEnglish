@@ -1,1 +1,25 @@
 ### flagr = flam 燃烧 火焰
+
+- flame 火焰 热情  光辉 焚烧 泛红
+	- flaming
+	- flammable
+	- flammability
+	- aflame
+	- flamboyance
+	- flamboyant
+	- flameout
+	- flameproof 防火的
+- inflame 激怒 使燃烧 使发炎  
+	- inflamed
+	- inflammation
+	- imflammatory
+	- innflammable
+	- anti-inflammatory
+	- pro-inflammatory
+	- non-inflammable
+- flagrant 公然的 不能容忍的 非常的
+	- flagrancy
+	- flagrantly
+- conflagrate 燃烧 着火  烧掉
+	- conflagration
+- flamingo 火烈鸟

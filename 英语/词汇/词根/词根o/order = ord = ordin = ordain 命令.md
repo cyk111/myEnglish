@@ -1,1 +1,48 @@
 ### order = ord = ordin = ordain 命令
+
+
+
+- order 命令 顺序 规则 订单 整理 订购 
+	- orderly
+	- ordering
+	- ordered
+	- orderlines
+	- disorder
+	- disordered
+	- disorderly
+- reorder 再订购 重新整理  
+	- recording 重排序
+	- zero-order 零阶
+	- mail-order 邮购
+	- low-order
+	- well-ordered
+- ordinarily 通常的 一般地
+	- ordinariness 平凡 平常
+	- ordinary-looking  相貌平常的
+	- out-of-ordinary 不平常的
+- extraordinary 非凡的 特别的
+	- extraordinarily
+- coordinate  坐标 同等的人或物 并列的  调整 协调
+	- coordinator 协调者
+	- coordination
+	- coordinated
+	- coordinating
+	- uncoordinated
+	- color-coorderinated
+	- well-coorderinated
+- ordinator 协调者
+	- ordination 分类 任命  神职授权  排成等级
+	- inordinate 过度的 无节制的  紊乱的
+	- inordinately 非常地  无度地
+	- superordinate 上级的 地位高的  高级的
+	- ordinance  条例  法令 
+	- subordinate 下级 下属  部属 属下
+	- subordination
+	- subordinated
+	- insubordinate
+	- insubordination
+	- ordinal
+- ordain  注定  颁布命令
+	- preordain 注定 预先决定
+	- preordained 注定的  天命的
+- ordnance 军火 打跑 军械署
