@@ -15,3 +15,70 @@
 - psychopathy psycho 心理 精神- pathy 心理病态  精神变态
 - eletropathy eletro 电-pathy 电疗法
 - hydropathy hydro 水-pathy 水疗法 
+
+- patient 有耐心的 能容忍的  病人 患者
+	- patiently
+	- outpatient
+	- inpatient
+	- impatient 焦躁的 不耐心的
+	- impatiently
+- patience 耐心 耐性 忍耐 容忍
+	- inpatient 
+- compatible 兼容的 能共处的
+	- compatibly
+	- compatibility
+	- incompatible
+	- incompatibly
+	- incompatibility
+- pathetic 可怜的  悲哀的  感伤的
+	- pathetically
+	- antipathetic
+	- antipathy 反感 厌恶 憎恶
+	- antipathic
+- apathy 冷漠  无兴趣的 漠不关心的
+	- apathetic
+- sympathy 同情  慰问 赞同
+	- sympathize 同情 慰问 赞同
+	- sympthetic
+	- sympathetically
+	- unsympathetic
+- pathology 病理 异常状态
+	- pathologist 病理学家
+	- pathologic
+	- pathological
+	- patholgically
+	- non-pathological
+	- histopathology
+- passion 激情 热爱  酷爱
+	- passional
+	- passionless
+	- passionate
+	- passionately
+- compassion 同情 怜悯
+	- compassionate
+	- compassionately
+- dispassion 冷静 公平
+	- dispassionate
+	- dispassionately
+- impassible 不能伤害的 不觉痛苦的
+- impassion 使激动 激起...热情
+	- impassioned
+	- impassive 冷漠的 无感觉的
+	- impassively
+	- impassivity
+- empathy 神入  感同身受 同感 共鸣
+	- empathic 神入的
+	- empathize
+	- empathetic
+	- empathietically
+- psychopath 精神病患者
+	- psychopathy
+- homeopath 
+- telepath 精神感应 心灵感应
+	- telepathy 心灵感应 传心术
+	- telepathic
+	- telepathically
+- pathogen 病原体 病菌
+	- pathogenic
+- pathos 悲怅 痛苦 同情 
+	- pathophysiology
