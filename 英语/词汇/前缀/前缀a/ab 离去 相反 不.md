@@ -1,4 +1,4 @@
-#### ab 离去 相反 不
+#### ab abs 离去 相反 不  变坏
 
 - abnormal 反常的 
 - abuse 滥用

@@ -92,7 +92,7 @@
 前缀
 [[contra  相反]]
 [[pre  先 前 预先]]
-[[mal  恶 坏 不良 失 不]]
+[[mal - male 恶 坏 不良 失 不]]
 [[bene -好]]
 [[in  ~ im ~ig ~ ir 入 做 作成  无 非 加强语气]]
 [[inter = intel 中间 ....之中 相互]]
